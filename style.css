@@ -1,0 +1,21 @@
+html {
+    height: 100%;
+}
+body {
+    background-color: rgb(212, 186, 236);
+    background: linear-gradient(rgb(216, 211, 211), rgb(248, 178, 190));
+}
+p {
+    text-align: center;
+}
+form {
+    background-color: rgb(199, 171, 171);
+    padding: 30px;
+    font-family: cursive; color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 10px;
+    position: absolute; left: 275px ; top: 45px;
+}
+
